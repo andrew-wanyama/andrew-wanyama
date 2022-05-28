@@ -9,7 +9,7 @@
       </a>
     <div/>
     <h3>
-      Hi there 👋🏽
+      Hello there 👋🏽
     </h3>
   </div>
 
