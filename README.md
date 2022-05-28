@@ -9,25 +9,24 @@
       </a>
     <div/>
     <h3>
-      Hi there
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+      Hi there 👋🏽
     </h3>
   </div>
 
   ---
 
-  ### 👨‍💻 About Me
+  ### 👨🏽‍💻 About Me
 
   Andrew Wanyama is a software engineer based in Nairobi, Kenya.
 
-  - :telescope: I lead a small and ambitious software development team while also contributing to frontend and backend for building web and mobile applications.
-  - ✨ I specialize in Java and have professional experience working with C#, PHP and JavaScript.  
-  - :seedling: I'm currently exploring Python.
-  - :zap: In my free time I solve problems on [Exercism](https://exercism.org) and read tech articles.
+  - 🔭 I lead a small and ambitious software development team while also contributing to frontend and backend for building web and mobile applications.
+  - 🚀 I specialize in Java and have professional experience working with C#, PHP and JavaScript.  
+  - 🌱 I'm currently exploring Python.
+  - ⚡ In my free time I solve problems on [Exercism](https://exercism.org) and read tech articles.
 
   ---
 
-  ### :hammer_and_wrench: Languages and Tools
+  ### 🛠️ Languages and Tools
 
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;  
@@ -41,7 +40,7 @@
 
   ---
 
-  ### :fire: My Stats
+  ### 🔥 My Stats
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andrew-wanyama&theme=dark&background=000000)](https://git.io/streak-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-wanyama&count_private=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
