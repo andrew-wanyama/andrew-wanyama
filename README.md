@@ -23,7 +23,7 @@
   - :telescope: I lead a small and ambitious software development team while also contributing to frontend and backend for building web and mobile applications.
   - ✨ I specialize in Java and have professional experience working with C#, PHP and JavaScript.  
   - :seedling: I'm currently exploring Python.
-  - :zap: In my free time I solve problems on GeeksforGeeks and read tech articles.
+  - :zap: In my free time I solve problems on [Exercism](https://exercism.org) and read tech articles.
 
   ---
 
