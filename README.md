@@ -1,5 +1,5 @@
   <div id="header" align="left">
-    <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="100"/>  
+    <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="134"/>  
     <div id="badges">
       <a href="https://www.linkedin.com/in/andrew-wanyama" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat"/>
